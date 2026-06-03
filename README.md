@@ -4,7 +4,8 @@
 
 # Hi 👋 I'm Akshay A
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Flutter+Developer+%F0%9F%9A%80;AI+Automation+Engineer+%F0%9F%A4%96;n8n+%7C+OpenAI+%7C+LangChain+%7C+Supabase;Turning+Ideas+into+Real+Projects+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Flutter+Developer+🚀;AI+Automation+Engineer+🤖;n8n+%7C+OpenAI+%7C+LangChain+%7C+Supabase;Turning+Ideas+into+Real+Projects+⚡)](https://git.io/typing-svg)
+
 
 </div>
 
@@ -79,11 +80,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-languag
 
 ---
 ## 🔥 GitHub Streak 
-
-<div align="center"> <img src="https://streak-stats.demolab.com?user=Akshay-tech23&theme=tokyonight-duo&hide_border=true"/> 
-
-</div>
-
+<div align="center"> <img src="https://streak-stats.demolab.com?user=Akshay-tech23&theme=tokyonight-duo&hide_border=true"/> </div>
 ---
 
 ## 🚀 Featured Projects
