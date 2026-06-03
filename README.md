@@ -163,10 +163,14 @@ Generative AI    →  APIs • Prompt Engineering • LangChain
 
 ---
 
-## 🏆 Trophy Wall
+## 🏆 GitHub Achievements
 
-<div align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=Akshay-tech23&theme=onedark&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy) 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshay-tech23&theme=tokyonight"/>
+
 </div>
+
 
 ---
 
