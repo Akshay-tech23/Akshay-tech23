@@ -15,7 +15,6 @@
 
 ## 👨‍💻 About Me
 
-```dart
 AkshayA {
   role: "Flutter Developer | AI Automation Engineer | n8n Builder",
 
@@ -38,7 +37,6 @@ AkshayA {
 
   motto: "Build. Automate. Ship. Repeat."
 }
-```
 
 ---
 
