@@ -70,10 +70,10 @@ class AkshayA {
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Akshay-tech23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akshay-tech23&theme=tokyonight"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-tech23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshay-tech23&theme=tokyonight"/>
 
 </div>
 
@@ -83,10 +83,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-tech2
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Akshay-tech23&theme=tokyonight-duo&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay-tech23&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 
 ---
 
