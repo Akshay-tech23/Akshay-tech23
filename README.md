@@ -64,12 +64,17 @@ class AkshayA {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
+```md
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshay-tech23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-tech23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Akshay-tech23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-tech23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
 </div>
 
 ---
@@ -77,8 +82,12 @@ class AkshayA {
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akshay-tech23&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Akshay-tech23&theme=tokyonight-duo&hide_border=true"/>
+
 </div>
+```
+
 
 ---
 
