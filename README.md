@@ -64,28 +64,7 @@ class AkshayA {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Akshay-tech23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshay-tech23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-tech23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</a>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay-tech23&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
+## 📊 GitHub Analytics <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshay-tech23&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-tech23&layout=compact&theme=tokyonight&hide_border=true"/> </div> --- ## 🔥 GitHub Streak <div align="center"> <img src="https://streak-stats.demolab.com?user=Akshay-tech23&theme=tokyonight-duo&hide_border=true"/> </div>
 ## 🚀 Featured Projects
 
 <div align="center">
