@@ -44,7 +44,59 @@ class AkshayA {
       "Build. Learn. Ship. Repeat.";
 }
 ```
+## ⚡ Tech Stack
 
+### Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Frameworks & Backend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+
+### AI & Automation
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Akshay-tech23">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshay-tech23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-tech23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</a>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Akshay-tech23&theme=tokyonight-duo&hide_border=true&background=0D1117"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Akshay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshay-tech23&theme=tokyo-night&hide_border=true)](https://github.com/Akshay-tech23)
 ### 🌐 Connect With Me
 
 <p align="left">
