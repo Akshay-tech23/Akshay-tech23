@@ -11,17 +11,17 @@
 
 ---
 
-
 ## 👨‍💻 About Me
 
 <div align="center">
 
+```dart
 AkshayA {
   role: "Flutter Developer | AI Automation Engineer | n8n Builder",
 
   stack: [
-    "Flutter","Firebase","Supabase",
-    "n8n","LangChain","OpenAI API","Generative AI"
+    "Flutter", "Firebase", "Supabase",
+    "n8n", "LangChain", "OpenAI API", "Generative AI"
   ],
 
   currentlyBuilding: [
@@ -33,9 +33,11 @@ AkshayA {
 
   motto: "Build. Automate. Ship. Repeat."
 }
-
+```
 
 </div>
+
+---
 ---
 
 ## ⚡ Tech Stack
