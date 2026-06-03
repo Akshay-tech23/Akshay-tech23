@@ -13,27 +13,30 @@
 
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
+## 👨‍💻 About Me
+
 ```dart
-class AkshayA {
+AkshayA {
+  role: "Flutter Developer | AI Automation Engineer | n8n Builder",
 
-  String role = "Flutter Developer | AI Automation Engineer";
+  stack: [
+    "Flutter",
+    "Firebase",
+    "Supabase",
+    "n8n",
+    "LangChain",
+    "OpenAI API",
+    "Generative AI"
+  ],
 
-  String location = "Tamil Nadu, India 🇮🇳";
+  currentlyBuilding: [
+    "ShopKeep AI",
+    "AI Automation Workflows",
+    "RAG Chatbots",
+    "Multiplayer Games"
+  ],
 
-  List<String> stack = [
-    "Flutter", "Dart", "Firebase", "Supabase",
-    "n8n", "LangChain", "OpenAI API",
-    "NVIDIA NIM", "RAG Pipelines", "Generative AI"
-  ];
-
-  List<String> currentlyBuilding = [
-    "ShopKeep AI — Smart Shop Management App",
-    "AI Automation Workflows with n8n",
-    "RAG Chatbots with Vector Search",
-    "Real-time Multiplayer Games"
-  ];
-
-  String motto() => "Build. Automate. Ship. Repeat.";
+  motto: "Build. Automate. Ship. Repeat."
 }
 ```
 
