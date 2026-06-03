@@ -1,3 +1,4 @@
+````md
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akshay%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20AI%20Automation%20Enthusiast%20%7C%20n8n%20Builder&descAlignY=62&descSize=16"/>
 
 <div align="center">
@@ -43,29 +44,36 @@ class AkshayA {
   String motto() =>
       "Build. Learn. Ship. Repeat.";
 }
-```
+````
+
+---
+
 ## ⚡ Tech Stack
 
 ### Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 
 ### Frameworks & Backend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
 
 ### AI & Automation
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square\&logo=n8n\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
 
 ---
 
@@ -74,6 +82,7 @@ class AkshayA {
 <div align="center">
 
 <a href="https://github.com/Akshay-tech23">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshay-tech23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-tech23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
@@ -93,15 +102,16 @@ class AkshayA {
 </p>
 
 ---
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|----------|--------|-------------|
-| **AI Content Automation using n8n + Groq** | n8n • Groq API • Google Sheets • AI Automation | Built an AI workflow that generates platform-specific social content automatically and stores results in Google Sheets. |
-| **ShareMeal — Community Food Sharing App** | Flutter • Firebase • OpenStreetMap API • Google OAuth | Hyperlocal food sharing platform with real-time proximity discovery and authentication. |
-| **RIT Chat — College ERP Assistant** | Flutter • Firebase • REST API | Student assistant app for attendance, grades & timetable data used by 50+ students. |
+| Project                                    | Stack                                                 | Highlights                                                                   |
+| ------------------------------------------ | ----------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **AI Content Automation using n8n + Groq** | n8n • Groq API • Google Sheets • AI Automation        | Automated AI workflow for generating LinkedIn, Facebook & Instagram content. |
+| **ShareMeal — Community Food Sharing App** | Flutter • Firebase • OpenStreetMap API • Google OAuth | Hyperlocal food sharing platform with real-time discovery.                   |
+| **RIT Chat — College ERP Assistant**       | Flutter • Firebase • REST API                         | Attendance, grades & timetable assistant used by 50+ students.               |
 
 </div>
 
@@ -110,20 +120,22 @@ class AkshayA {
 ## 🧠 Currently Building
 
 ### 🎮 TrustNoOne — Multiplayer Social Deduction Game
+
 **Flutter • Firebase • Supabase Realtime • Riverpod**
 
-- Real-time multiplayer game
-- Live chat + role assignment
-- Supabase realtime synchronization
-- Play Store deployment workflow
+* Real-time multiplayer gameplay
+* Live chat + role assignment
+* Supabase realtime sync
+* Play Store deployment workflow
 
 ### 📦 DevTrack — Agile Task & Deployment Manager
+
 **Flutter • Firebase • GitHub Actions • REST API**
 
-- Kanban task board
-- GitHub integration
-- CI/CD build validation
-- Agile sprint tracking
+* Kanban task board
+* GitHub integration
+* CI/CD build validation
+* Agile sprint tracking
 
 ---
 
@@ -137,10 +149,14 @@ Generative AI → APIs • Prompt Engineering
 ```
 
 ---
+
 ## 📈 Contribution Graph
 
-[![Akshay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshay-tech23&theme=tokyo-night&hide_border=true)](https://github.com/Akshay-tech23)
-### ## 🏆 Trophy Wall
+[![Akshay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshay-tech23\&theme=tokyo-night\&hide_border=true)](https://github.com/Akshay-tech23)
+
+---
+
+## 🏆 Trophy Wall
 
 <p align="center">
 
@@ -152,12 +168,12 @@ Generative AI → APIs • Prompt Engineering
 
 ## 📫 Reach Me
 
-📧 **Email:** akshaypersonal217@gmail.com  
+📧 **Email:** [akshaypersonal217@gmail.com](mailto:akshaypersonal217@gmail.com)
 
-💼 **LinkedIn:**  
+💼 **LinkedIn:**
 https://www.linkedin.com/in/akshay-a-dev
 
-💻 **GitHub:**  
+💻 **GitHub:**
 https://github.com/Akshay-tech23
 
 ---
@@ -169,3 +185,4 @@ https://github.com/Akshay-tech23
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+```
