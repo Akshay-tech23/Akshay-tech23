@@ -93,7 +93,50 @@ class AkshayA {
 </p>
 
 ---
+## 🚀 Featured Projects
 
+<div align="center">
+
+| Project | Stack | Highlights |
+|----------|--------|-------------|
+| **AI Content Automation using n8n + Groq** | n8n • Groq API • Google Sheets • AI Automation | Built an AI workflow that generates platform-specific social content automatically and stores results in Google Sheets. |
+| **ShareMeal — Community Food Sharing App** | Flutter • Firebase • OpenStreetMap API • Google OAuth | Hyperlocal food sharing platform with real-time proximity discovery and authentication. |
+| **RIT Chat — College ERP Assistant** | Flutter • Firebase • REST API | Student assistant app for attendance, grades & timetable data used by 50+ students. |
+
+</div>
+
+---
+
+## 🧠 Currently Building
+
+### 🎮 TrustNoOne — Multiplayer Social Deduction Game
+**Flutter • Firebase • Supabase Realtime • Riverpod**
+
+- Real-time multiplayer game
+- Live chat + role assignment
+- Supabase realtime synchronization
+- Play Store deployment workflow
+
+### 📦 DevTrack — Agile Task & Deployment Manager
+**Flutter • Firebase • GitHub Actions • REST API**
+
+- Kanban task board
+- GitHub integration
+- CI/CD build validation
+- Agile sprint tracking
+
+---
+
+## 🌱 Currently Learning
+
+```txt
+AI Automation → n8n • Agents • Workflows
+Flutter → Advanced State Management
+CI/CD → GitHub Actions • Deployment
+Generative AI → APIs • Prompt Engineering
+```
+
+---
 ## 📈 Contribution Graph
 
 [![Akshay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshay-tech23&theme=tokyo-night&hide_border=true)](https://github.com/Akshay-tech23)
