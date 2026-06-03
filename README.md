@@ -4,7 +4,7 @@
 
 # Hi 👋 I'm Akshay A
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Flutter+Developer+🚀;AI+Automation+Engineer+🤖;n8n+%7C+OpenAI+%7C+LangChain+%7C+Supabase;Turning+Ideas+into+Real+Projects+⚡"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Flutter+Developer+%F0%9F%9A%80;AI+Automation+Engineer+%F0%9F%A4%96;n8n+%7C+OpenAI+%7C+LangChain+%7C+Supabase;Turning+Ideas+into+Real+Projects+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -70,8 +70,8 @@ class AkshayA {
 <div align="center">
 
 <a href="https://github.com/Akshay-tech23">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshay-tech23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-tech23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshay-tech23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-tech23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </a>
 
 </div>
@@ -81,7 +81,7 @@ class AkshayA {
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Akshay-tech23&theme=tokyonight-duo&hide_border=true&background=0D1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay-tech23&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -163,7 +163,7 @@ Generative AI    →  APIs • Prompt Engineering • LangChain
 ## 🏆 Trophy Wall
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Akshay-tech23&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshay-tech23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
 </p>
 
 ---
@@ -171,13 +171,13 @@ Generative AI    →  APIs • Prompt Engineering • LangChain
 ## 📫 Reach Me
 
 📧 **Email:** akshaypersonal217@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/akshay-a-dev  
-💻 **GitHub:** https://github.com/Akshay-tech23
+💼 **LinkedIn:** [linkedin.com/in/akshay-a-dev](https://www.linkedin.com/in/akshay-a-dev)  
+💻 **GitHub:** [github.com/Akshay-tech23](https://github.com/Akshay-tech23)
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Akshay-tech23&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Akshay-tech23&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
