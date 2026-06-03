@@ -78,12 +78,9 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-languag
 </div>
 
 ---
+## 🔥 GitHub Streak 
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay-tech23&theme=tokyonight&hide_border=true"/>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=Akshay-tech23&theme=tokyonight-duo&hide_border=true"/> 
 
 </div>
 
