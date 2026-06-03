@@ -140,16 +140,32 @@ Generative AI → APIs • Prompt Engineering
 ## 📈 Contribution Graph
 
 [![Akshay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshay-tech23&theme=tokyo-night&hide_border=true)](https://github.com/Akshay-tech23)
-### 🌐 Connect With Me
+### ## 🏆 Trophy Wall
 
-<p align="left">
-<a href="https://www.linkedin.com/in/akshay-a-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
 
-<a href="https://github.com/Akshay-tech23">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Akshay-tech23&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+
 </p>
 
 ---
+
+## 📫 Reach Me
+
+📧 **Email:** akshaypersonal217@gmail.com  
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/akshay-a-dev
+
+💻 **GitHub:**  
+https://github.com/Akshay-tech23
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Akshay-tech23&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
