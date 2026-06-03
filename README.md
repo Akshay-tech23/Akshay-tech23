@@ -79,8 +79,14 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-languag
 </div>
 
 ---
-## 🔥 GitHub Streak 
-<div align="center"> <img src="https://streak-stats.demolab.com?user=Akshay-tech23&theme=tokyonight-duo&hide_border=true"/> </div>
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Akshay-tech23&theme=tokyonight-duo&hide_border=true&background=0D1117"/>
+
+</p>
+
 ---
 
 ## 🚀 Featured Projects
