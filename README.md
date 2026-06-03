@@ -13,31 +13,19 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
+🚀 **Flutter Developer | AI Automation Engineer | n8n Builder**
 
-```dart
-AkshayA {
-  role: "Flutter Developer | AI Automation Engineer | n8n Builder",
+Passionate about building **cross-platform mobile apps, AI workflows, and automation systems** using **Flutter, Firebase, Supabase, n8n, LangChain, and OpenAI APIs**.
 
-  stack: [
-    "Flutter", "Firebase", "Supabase",
-    "n8n", "LangChain", "OpenAI API", "Generative AI"
-  ],
+Currently building:
 
-  currentlyBuilding: [
-    "ShopKeep AI",
-    "AI Automation Workflows",
-    "RAG Chatbots",
-    "Multiplayer Games"
-  ],
+* 🛍️ **ShopKeep AI** — Smart shop management platform
+* 🤖 **AI Automation Workflows** using n8n
+* 🔍 **RAG Chatbots** with vector search & AI pipelines
+* 🎮 **Real-time Multiplayer Applications**
 
-  motto: "Build. Automate. Ship. Repeat."
-}
-```
+**Motto:** *Build. Automate. Ship. Repeat.*
 
-</div>
-
----
 ---
 
 ## ⚡ Tech Stack
