@@ -64,7 +64,7 @@ class AkshayA {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
-```md
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -86,7 +86,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-tech2
 <img src="https://streak-stats.demolab.com?user=Akshay-tech23&theme=tokyonight-duo&hide_border=true"/>
 
 </div>
-```
 
 
 ---
