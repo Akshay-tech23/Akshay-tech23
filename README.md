@@ -72,7 +72,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-languag
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Akshay-tech23&theme=tokyonight-duo&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Akshay-tech23&theme=tokyonight&hide_border=true"/>
 
 </p>
 
